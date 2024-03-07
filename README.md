@@ -13,6 +13,7 @@ This app contains the following features
 ## Authors
 
 * **Tristan van Erk** - [erk0002](https://github.com/erk0002)
+* **Meike Martens** - [meike0143](https://github.com/meike0143)
 
 ***Guys add your names here please***
 
