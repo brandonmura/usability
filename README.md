@@ -15,6 +15,7 @@ This app contains the following features
 * **Tristan van Erk** - [erk0002](https://github.com/erk0002)
 * **Meike Martens** - [meike0143](https://github.com/meike0143)
 * **Nikol Alexandrova** - [NikolAlexandrova](https://github.com/NikolAlexandrova)
+* **Brandon Murambinda** - [mura0005](https://github.com/brandonmura)
 
 ***Guys add your names here please***
 
