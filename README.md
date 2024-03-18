@@ -16,6 +16,7 @@ This app contains the following features
 * **Meike Martens** - [meike0143](https://github.com/meike0143)
 * **Nikol Alexandrova** - [NikolAlexandrova](https://github.com/NikolAlexandrova)
 * **Brandon Murambinda** - [mura0005](https://github.com/brandonmura)
+* **Emilis Nanartavicius** - [EmylNana]([https://github.com/brandonmura](https://github.com/EmylNana))
 
 ***Guys add your names here please***
 
