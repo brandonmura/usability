@@ -15,8 +15,9 @@ This app contains the following features
 * **Tristan van Erk** - [erk0002](https://github.com/erk0002)
 * **Meike Martens** - [meike0143](https://github.com/meike0143)
 * **Nikol Alexandrova** - [NikolAlexandrova](https://github.com/NikolAlexandrova)
-* **Brandon Murambinda** - [mura0005](https://github.com/brandonmura)
-* **Emilis Nanartavicius** - [EmylNana]([https://github.com/brandonmura](https://github.com/EmylNana))
+* **Brandon Murambinda** - [brandonmura](https://github.com/brandonmura)
+* **Grigore Darius** - [Gogu101](https://github.com/Gogu101)
+* **Emilis Nanartavicius** - [EmylNana](https://github.com/EmylNana)
 
 ***Guys add your names here please***
 
