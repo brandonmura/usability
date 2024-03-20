@@ -16,7 +16,7 @@ This app contains the following features
 * **Meike Martens** - [meike0143](https://github.com/meike0143)
 * **Nikol Alexandrova** - [NikolAlexandrova](https://github.com/NikolAlexandrova)
 * **Brandon Murambinda** - [mura0005](https://github.com/brandonmura)
-
+* **Grigore Darius** - [gogu101](https://github.com/Gogu101)
 ***Guys add your names here please***
 
 ## Acknowledgements
