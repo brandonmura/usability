@@ -710,7 +710,7 @@
     text-align: center;
 }
 
-@media only screen and (max-width: 1440px) {
+@media only screen and (max-width: 1800px) {
     .event-block {
         padding-left: 35vh;
     }
