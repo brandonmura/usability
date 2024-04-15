@@ -1,5 +1,5 @@
 <!-- Events Start -->
-<div class="container-fluid events py-5">
+<div class="container-fluid events py-5 event-block">
     <div class="container py-5">
         <div class="pb-5 @if(Request::segment(1) == "dashboard") display-none @endif ">
             <div class="row g-4 align-items-end">
@@ -29,7 +29,7 @@
                         <a class="btn btn-primary rounded-pill text-white py-2 px-4" href="#">Watch Now</a>
                         @php
                             if(Request::segment(1) == "dashboard")
-                                echo '<a class="btn btn-secondary rounded-pill text-white py-2 px-4" href="#">Remove</a>';
+                                echo '<a class="btn btn-secondary rounded-pill text-white py-2 px-4 my-3" href="#">Remove</a>';
                         @endphp
                     </div>
                 </div>
@@ -50,7 +50,7 @@
                         <a class="btn btn-primary rounded-pill text-white py-2 px-4" href="#">Watch Now</a>
                         @php
                             if(Request::segment(1) == "dashboard")
-                                echo '<a class="btn btn-secondary rounded-pill text-white py-2 px-4" href="#">Remove</a>';
+                                echo '<a class="btn btn-secondary rounded-pill text-white py-2 px-4 my-3" href="#">Remove</a>';
                         @endphp
                     </div>
                 </div>
@@ -71,7 +71,7 @@
                         <a class="btn btn-primary rounded-pill text-white py-2 px-4" href="#">Watch Now</a>
                         @php
                             if(Request::segment(1) == "dashboard")
-                                echo '<a class="btn btn-secondary rounded-pill text-white py-2 px-4" href="#">Remove</a>';
+                                echo '<a class="btn btn-secondary rounded-pill text-white py-2 px-4 my-3" href="#">Remove</a>';
                         @endphp
                     </div>
                 </div>
@@ -92,7 +92,7 @@
                         <a class="btn btn-primary rounded-pill text-white py-2 px-4" href="#">Watch Now</a>
                         @php
                             if(Request::segment(1) == "dashboard")
-                                echo '<a class="btn btn-secondary rounded-pill text-white py-2 px-4" href="#">Remove</a>';
+                                echo '<a class="btn btn-secondary rounded-pill text-white py-2 px-4 my-3" href="#">Remove</a>';
                         @endphp
                     </div>
                 </div>

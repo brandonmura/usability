@@ -109,10 +109,10 @@
                         </a>
                     </li>
                     <li class="sidebar-item">
-                        <a class="sidebar-link waves-effect waves-dark sidebar-link" href="/dashboard/events"
+                        <a class="sidebar-link waves-effect waves-dark sidebar-link" href="/dashboard/activities"
                            aria-expanded="false">
                             <i class="fas fa-clipboard me-3"></i>
-                            <span class="hide-menu">Events</span>
+                            <span class="hide-menu">activities</span>
                         </a>
                     </li>
 {{--                    <li class="sidebar-item">--}}
