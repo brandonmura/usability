@@ -101,5 +101,50 @@ function loadTasks(): array
  * The home route, that shows the welcome view.
  */
 Route::get('/', function () {
-    return view('welcome');
+    return view('index');
 })->name('home');
+
+Route::get('/about', function () {
+    return view('about');
+})->name('about');
+
+Route::get('/404', function () {
+    return view('404');
+})->name('404');
+
+Route::get('/contact', function () {
+    return view('contact');
+})->name('contact');
+
+Route::get('/events', function () {
+    return view('events');
+})->name('events');
+
+Route::get('/news', function () {
+    return view('news');
+})->name('news');
+
+Route::get('/signup', function () {
+    return view('signup');
+})->name('signup');
+
+
+Route::get('/dashboard', function () {
+    return view('dashboard.dashboard');
+})->name('dashboard');
+
+Route::get('/dashboard/profile', function () {
+    return view('dashboard.profile');
+})->name('profiles');
+
+Route::get('/dashboard/events', function () {
+    return view('dashboard.events');
+})->name('events');
+
+Route::get('/dashboard/news', function () {
+    return view('dashboard.news');
+})->name('news');
+
+Route::get('/dashboard/form', function () {
+    return view('dashboard.form');
+})->name('form');
