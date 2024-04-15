@@ -116,13 +116,13 @@ Route::get('/contact', function () {
     return view('contact');
 })->name('contact');
 
-Route::get('/events', function () {
-    return view('events');
-})->name('events');
-
 Route::get('/activities', function () {
-    return view('news');
+    return view('events');
 })->name('activities');
+
+Route::get('/news', function () {
+    return view('news');
+})->name('news');
 
 Route::get('/signup', function () {
     return view('signup');
@@ -137,13 +137,13 @@ Route::get('/dashboard/profile', function () {
     return view('dashboard.profile');
 })->name('profiles');
 
-Route::get('/dashboard/events', function () {
-    return view('dashboard.events');
-})->name('events');
-
 Route::get('/dashboard/activities', function () {
-    return view('dashboard.news');
+    return view('dashboard.events');
 })->name('activities');
+
+Route::get('/dashboard/news', function () {
+    return view('dashboard.news');
+})->name('news');
 
 Route::get('/dashboard/form', function () {
     return view('dashboard.form');

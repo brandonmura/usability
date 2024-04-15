@@ -1,5 +1,5 @@
 <!-- News Start -->
-<div class="container-fluid blog pb-5 {{ request()->is('activities') ? 'py-5' : ''}}">
+<div class="container-fluid blog pb-5 {{ request()->is('news') ? 'py-5' : ''}}">
     <div class="container pb-5">
 
         <div class="pb-5">

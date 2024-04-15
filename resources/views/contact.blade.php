@@ -1,6 +1,6 @@
 @include("layouts.header")
 
-@include("layouts.about")
+@include("layouts.contact")
 
 @include("layouts.faq")
 
