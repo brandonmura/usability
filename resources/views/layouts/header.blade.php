@@ -85,7 +85,7 @@
             <div class="navbar-nav ms-auto py-0">
                 <a href="/" class="nav-item nav-link {{ request()->is('/') ? 'active' : ''}}">Home</a>
                 <a href="/about" class="nav-item nav-link {{ request()->is('about') ? 'active' : ''}}">About</a>
-                <a href="/events" class="nav-item nav-link {{ request()->is('events') ? 'active' : ''}}">Events</a>
+                <a href="/activities" class="nav-item nav-link {{ request()->is('activities') ? 'active' : ''}}">Activities</a>
                 <a href="/news" class="nav-item nav-link {{ request()->is('news') ? 'active' : ''}}">News</a>
                 <a href="/contact" class="nav-item nav-link {{ request()->is('contact') ? 'active' : ''}}">Contact Us</a>
             </div>

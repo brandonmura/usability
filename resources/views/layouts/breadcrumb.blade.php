@@ -4,7 +4,7 @@
     if ($page == "news")
         $pagetitle = "Our Blog & News";
     elseif ($page = "events")
-        $pagetitle = "Upcoming Events";
+        $pagetitle = "Upcoming Activities";
     elseif ($page = "about")
         $pagetitle = "About Us";
 

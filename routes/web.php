@@ -120,9 +120,9 @@ Route::get('/events', function () {
     return view('events');
 })->name('events');
 
-Route::get('/news', function () {
+Route::get('/activities', function () {
     return view('news');
-})->name('news');
+})->name('activities');
 
 Route::get('/signup', function () {
     return view('signup');
@@ -141,9 +141,9 @@ Route::get('/dashboard/events', function () {
     return view('dashboard.events');
 })->name('events');
 
-Route::get('/dashboard/news', function () {
+Route::get('/dashboard/activities', function () {
     return view('dashboard.news');
-})->name('news');
+})->name('activities');
 
 Route::get('/dashboard/form', function () {
     return view('dashboard.form');
