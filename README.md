@@ -18,7 +18,6 @@ This app contains the following features
 * **Nikol Alexandrova** - [NikolAlexandrova](https://github.com/NikolAlexandrova)
 * **Brandon Murambinda** - [brandonmura](https://github.com/brandonmura)
 * **Grigore Darius** - [Gogu101](https://github.com/Gogu101)
-* **Emilis Nanartavicius** - [EmylNana](https://github.com/EmylNana)
 
 ***Guys add your names here please***
 
