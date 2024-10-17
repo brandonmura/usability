@@ -11,6 +11,12 @@ use Illuminate\Support\Str;
  */
 class UserFactory extends Factory
 {
+<<<<<<< HEAD
+=======
+    /**
+     * The current password being used by the factory.
+     */
+>>>>>>> usability
     protected static ?string $password;
 
     /**
